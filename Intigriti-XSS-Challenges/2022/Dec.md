@@ -9,7 +9,7 @@ The challenge type was a bit different then you normally see in other intigriti 
 
 Here's the solution video: https://twitter.com/intigriti/status/1599556700901720066?s=20&t=cLISRgUqpEVoOlFY5thZrA
 
-
+I didn't completed this challenge  the last part I wasn't able to solve how (avatar path),so my writeup is based on the video solution for that part only. 
 
 ```
 Rules:
