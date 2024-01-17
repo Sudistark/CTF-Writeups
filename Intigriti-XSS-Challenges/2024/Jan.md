@@ -461,7 +461,8 @@ jQuery.extend( {
     attr: function( elem, name, value ) {
 ```
 name -> test
-value -> <img src=x onerror=alert()>
+
+value -> `<img src=x onerror=alert()>`
 
 Tracing from where this function was called:
 
